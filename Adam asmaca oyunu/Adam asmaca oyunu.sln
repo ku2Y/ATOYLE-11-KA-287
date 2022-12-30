@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adam asmaca oyunu", "Adam asmaca oyunu\Adam asmaca oyunu.csproj", "{488708A0-54FB-4FED-8E6C-6C0CE0CA37EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adam asmaca final", "G:\ATOYLE 11 KA 287\adam asmaca final\adam asmaca final.csproj", "{09408DEE-2552-4E2D-AE56-11F1010AABDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488708A0-54FB-4FED-8E6C-6C0CE0CA37EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488708A0-54FB-4FED-8E6C-6C0CE0CA37EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488708A0-54FB-4FED-8E6C-6C0CE0CA37EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488708A0-54FB-4FED-8E6C-6C0CE0CA37EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09408DEE-2552-4E2D-AE56-11F1010AABDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09408DEE-2552-4E2D-AE56-11F1010AABDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09408DEE-2552-4E2D-AE56-11F1010AABDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09408DEE-2552-4E2D-AE56-11F1010AABDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36FEE9E0-2BAB-4C69-AA28-4F34006CC4B4}
+	EndGlobalSection
+EndGlobal
